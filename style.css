@@ -33,6 +33,7 @@ body {
     align-items: center;
     justify-content: center;
     color: #fff;
+    transition: transform 0.8s ease-in-out;
 }
 
 .left-slide h1 {
@@ -47,6 +48,7 @@ body {
     top: 0;
     left: 35%;
     width: 65%;
+    transition: transform 0.8s ease-in-out;
 }
 
 .right-slide > div{
